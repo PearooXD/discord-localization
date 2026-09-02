@@ -29,4 +29,4 @@ from .errors import *
 
 from pathlib import Path
 
-__version__ = "1.1.4"
+__version__ = "1.1.5"
